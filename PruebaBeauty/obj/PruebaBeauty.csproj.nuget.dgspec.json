@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Clip\\ChatBot\\PruebaBeauty\\PruebaBeauty\\PruebaBeauty.csproj": {}
+    "C:\\Clip\\ChatBot\\PruebaBeauty\\PruebaBeauty\\PruebaBeauty\\PruebaBeauty.csproj": {}
   },
   "projects": {
-    "C:\\Clip\\ChatBot\\PruebaBeauty\\PruebaBeauty\\PruebaBeauty.csproj": {
+    "C:\\Clip\\ChatBot\\PruebaBeauty\\PruebaBeauty\\PruebaBeauty\\PruebaBeauty.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Clip\\ChatBot\\PruebaBeauty\\PruebaBeauty\\PruebaBeauty.csproj",
+        "projectUniqueName": "C:\\Clip\\ChatBot\\PruebaBeauty\\PruebaBeauty\\PruebaBeauty\\PruebaBeauty.csproj",
         "projectName": "PruebaBeauty",
-        "projectPath": "C:\\Clip\\ChatBot\\PruebaBeauty\\PruebaBeauty\\PruebaBeauty.csproj",
+        "projectPath": "C:\\Clip\\ChatBot\\PruebaBeauty\\PruebaBeauty\\PruebaBeauty\\PruebaBeauty.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Clip\\ChatBot\\PruebaBeauty\\PruebaBeauty\\obj\\",
+        "outputPath": "C:\\Clip\\ChatBot\\PruebaBeauty\\PruebaBeauty\\PruebaBeauty\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
